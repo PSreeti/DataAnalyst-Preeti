@@ -90,6 +90,7 @@ This dataset contains detailed information about employees whose earnings exceed
 - Data Ingestion: Ingested data into AWS S3, maintaining data integrity and security.
   
 ![Data Storage and Ingestion](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Picture2.png)
+
 2. Data Processing
 - Pipeline Design: Designed data pipelines using AWS Glue to automate data processing from ingestion to storage.
 ![Pipeline Design](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Picture3.png)
@@ -100,6 +101,7 @@ This dataset contains detailed information about employees whose earnings exceed
  ![Data Structuring](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Picture6.png)
 - Pipeline Implementation: Automated the data flow through the implemented pipelines.
 ![Pipeline Implementation](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Picture7.png)
+
 3. Data Analysis and Visualization
 -	Data Analysis: Utilized AWS Glue and other analytical tools to perform deep analysis and uncover insights and trends.
 -	Data : Created graphs and charts using AWS QuickSight to visualize the results clearly and informatively.
