@@ -5,38 +5,38 @@ The primary aim of this project is to conduct an exploratory data analysis (EDA)
 # Dataset
 **Funding Approved**
 This dataset includes detailed information about research projects that have received funding approval at the University Canada West. Key attributes include:
-•	Application ID: A unique identifier for each funding application.
-•	Approval Date: The date when the funding was approved.
-•	Department: The academic department where the research is conducted.
-•	PI Name: Name of the Principal Investigator leading the research.
-•	Funding Source: The agency or organization providing the funding.
-•	Approved Amount: The amount of funding approved for the project.
-•	Project Start Date: The start date of the research project.
-•	Project End Date: The anticipated end date of the research project.
-•	Expected Outcomes: Expected results or impact of the research.
-•	Funding Status: Current status of the project (e.g., Active, Completed).
+- Application ID: A unique identifier for each funding application.
+- Approval Date: The date when the funding was approved.
+- Department: The academic department where the research is conducted.
+- PI Name: Name of the Principal Investigator leading the research.
+- Funding Source: The agency or organization providing the funding.
+- Approved Amount: The amount of funding approved for the project.
+- Project Start Date: The start date of the research project.
+- Project End Date: The anticipated end date of the research project.
+- Expected Outcomes: Expected results or impact of the research.
+- Funding Status: Current status of the project (e.g., Active, Completed).
 **Dataset: Funding Agency Report**
 This dataset encompasses applications submitted for research funding, detailing the review and approval process. Key attributes include:
-•	Application ID: A unique identifier matching with the 'Funding Approved' dataset.
-•	Project Title: The title of the research project.
-•	Researcher Name: Name of the researcher applying for funding.
-•	Department: The academic department of the researcher.
-•	Submission Date: The date on which the funding application was submitted.
-•	Review Date: The date when the application was reviewed.
-•	Funding Requested: Total amount of funding requested in the application.
-•	Approval Status: Status of the application (e.g., Approved, Pending, Rejected).
-•	Similar Past Proposals: Number of similar proposals submitted in the past.
-•	Past Approval Rate: Approval rate for similar past proposals.
+- Application ID: A unique identifier matching with the 'Funding Approved' dataset.
+- Project Title: The title of the research project.
+- Researcher Name: Name of the researcher applying for funding.
+- Department: The academic department of the researcher.
+- Submission Date: The date on which the funding application was submitted.
+- Review Date: The date when the application was reviewed.
+- Funding Requested: Total amount of funding requested in the application.
+- Approval Status: Status of the application (e.g., Approved, Pending, Rejected).
+- Similar Past Proposals: Number of similar proposals submitted in the past.
+- Past Approval Rate: Approval rate for similar past proposals.
 # Methodology
 1. Data Storage and Ingestion:
-•	Storage Design: Designed an efficient data storage solution using AWS S3 for scalability and accessibility.
-•	Dataset Preparation: Loaded the datasets into structured formats suitable for analysis using AWS DataBrew and AWS Glue.
-•	Data Ingestion: Ingested data into AWS S3, maintaining data integrity and security.
+- Storage Design: Designed an efficient data storage solution using AWS S3 for scalability and accessibility.
+- Dataset Preparation: Loaded the datasets into structured formats suitable for analysis using AWS DataBrew and AWS Glue.
+- Data Ingestion: Ingested data into AWS S3, maintaining data integrity and security.
 2. Data Processing:
-•	Pipeline Design: Designed data pipelines using AWS Glue to automate data processing from ingestion to storage.
-•	Data Cleaning: Handled inconsistencies, missing values, and errors.
-•	Data Structuring: Structured the cleaned data to meet analytical requirements.
-•	Pipeline Implementation: Automated the data flow through the implemented pipelines.
+- Pipeline Design: Designed data pipelines using AWS Glue to automate data processing from ingestion to storage.
+- Data Cleaning: Handled inconsistencies, missing values, and errors.
+- Data Structuring: Structured the cleaned data to meet analytical requirements.
+- Pipeline Implementation: Automated the data flow through the implemented pipelines.
 3. Data Analysis and Visualization:
 •	Data Analysis: Utilized AWS Glue and other analytical tools to perform deep analysis and uncover insights and trends.
 •	Data Visualization: Created graphs and charts using AWS QuickSight to visualize the results clearly and informatively.
