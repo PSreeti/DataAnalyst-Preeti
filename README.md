@@ -106,7 +106,7 @@ This dataset contains detailed information about employees whose earnings exceed
 ![Data Publishing](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Picture11.png)
 ![Data Publishing](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Picture12.png)
 - Data Protection: Ensured data privacy and compliance with relevant regulations.
-![Data Repliation]g)
+![Data Repliation])
 - Data Governance: Managed data access, auditing, and quality.
 - Data Monitoring: Monitored the performance and health of data operations using AWS CloudWatch.
 ![Data Plotting]()
