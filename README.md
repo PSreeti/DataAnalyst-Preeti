@@ -37,9 +37,12 @@ This dataset encompasses applications submitted for research funding, detailing 
 ![Data Storage and Ingestion](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Step1.png)
 2. Data Processing:
 - Pipeline Design: Designed data pipelines using AWS Glue to automate data processing from ingestion to storage.
+![Pipeline Design](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/ETLWeek%233.drawio%20(1).png)
 - Data Cleaning: Handled inconsistencies, missing values, and errors.
 - Data Structuring: Structured the cleaned data to meet analytical requirements.
+ ![Data Structuring](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Week4.png)
 - Pipeline Implementation: Automated the data flow through the implemented pipelines.
+![Pipeline Implementation](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/ETL_AWS.png)
 3. Data Analysis and Visualization:
 -	Data Analysis: Utilized AWS Glue and other analytical tools to perform deep analysis and uncover insights and trends.
 -	Data Visualization: Created graphs and charts using AWS QuickSight to visualize the results clearly and informatively.
