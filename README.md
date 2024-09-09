@@ -72,12 +72,12 @@ The primary aim of this project is to conduct a Descriptive Analysis on the Empl
 
 # Dataset
 This dataset contains detailed information about employees whose earnings exceeded $75,000 in 2023, as reported by the organization. The key attributes of the dataset include:
-•	Year: The year of the data record, indicating when the remuneration and expenses were reported.
-•	Name: The name of the employee.
-•	Department: The department where the employee works. This field is crucial for department-wise analysis of salary and expenses.
-•	Title: The job title of the employee, which may correlate with their level of remuneration.
-•	Remuneration: The total annual remuneration received by the employee, encompassing all forms of monetary compensation.
-•	Expenses: Any reimbursed expenses that the employee claimed over the year.
+- Year: The year of the data record, indicating when the remuneration and expenses were reported.
+- Name: The name of the employee.
+- Department: The department where the employee works. This field is crucial for department-wise analysis of salary and expenses.
+- Title: The job title of the employee, which may correlate with their level of remuneration.
+- Remuneration: The total annual remuneration received by the employee, encompassing all forms of monetary compensation.
+- Expenses: Any reimbursed expenses that the employee claimed over the year.
 
 # Methodology
 1. Data Storage and Ingestion
