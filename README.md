@@ -40,17 +40,24 @@ This dataset encompasses applications submitted for research funding, detailing 
 ![Pipeline Design](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/ETLWeek%233.drawio%20(1).png)
 - Data Cleaning: Handled inconsistencies, missing values, and errors.
 - Data Structuring: Structured the cleaned data to meet analytical requirements.
- ![Data Structuring](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Week4.png)
+ ![Data Structuring](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Screenshot%201.png)
 - Pipeline Implementation: Automated the data flow through the implemented pipelines.
 ![Pipeline Implementation](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/ETL_AWS.png)
 3. Data Analysis and Visualization:
 -	Data Analysis: Utilized AWS Glue and other analytical tools to perform deep analysis and uncover insights and trends.
--	Data Visualization: Created graphs and charts using AWS QuickSight to visualize the results clearly and informatively.
+-	Data : Created graphs and charts using AWS QuickSight to visualize the results clearly and informatively.
+![Data Visualization](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Week4.png)
+
 4. Data Management and Monitoring:
 - Data Publishing: Made findings and visualizations accessible to stakeholders and decision-makers.
+![Data Publishing](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Webserver-2.png)
 - Data Protection: Ensured data privacy and compliance with relevant regulations.
+![Data Repliation](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Screenshot2.png)
 - Data Governance: Managed data access, auditing, and quality.
 - Data Monitoring: Monitored the performance and health of data operations using AWS CloudWatch.
+![Data Plotting](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Monitoring%26ControllingDashboard-2.png)
+
+
 # Tools and Technologies
 **AWS Services**
 - AWS S3: Used for scalable and secure data storage.
