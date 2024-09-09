@@ -29,7 +29,7 @@ This dataset encompasses applications submitted for research funding, detailing 
 - Similar Past Proposals: Number of similar proposals submitted in the past.
 - Past Approval Rate: Approval rate for similar past proposals.
 # Methodology
-1. Data Storage and Ingestion (https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Cloud%20Solution%20-%20Screenshot-1.drawio.png):
+1. [Data Storage and Ingestion] (https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Cloud%20Solution%20-%20Screenshot-1.drawio.png):
 - Storage Design: Designed an efficient data storage solution using AWS S3 for scalability and accessibility.
 - Dataset Preparation: Loaded the datasets into structured formats suitable for analysis using AWS DataBrew and AWS Glue.
 - Data Ingestion: Ingested data into AWS S3, maintaining data integrity and security.
