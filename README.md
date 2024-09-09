@@ -15,7 +15,7 @@ This dataset includes detailed information about research projects that have rec
 - Project End Date: The anticipated end date of the research project.
 - Expected Outcomes: Expected results or impact of the research.
 - Funding Status: Current status of the project (e.g., Active, Completed).
-**Dataset: Funding Agency Report**
+- **Dataset: Funding Agency Report**
 This dataset encompasses applications submitted for research funding, detailing the review and approval process. Key attributes include:
 - Application ID: A unique identifier matching with the 'Funding Approved' dataset.
 - Project Title: The title of the research project.
@@ -38,22 +38,22 @@ This dataset encompasses applications submitted for research funding, detailing 
 - Data Structuring: Structured the cleaned data to meet analytical requirements.
 - Pipeline Implementation: Automated the data flow through the implemented pipelines.
 3. Data Analysis and Visualization:
-•	Data Analysis: Utilized AWS Glue and other analytical tools to perform deep analysis and uncover insights and trends.
-•	Data Visualization: Created graphs and charts using AWS QuickSight to visualize the results clearly and informatively.
+-	Data Analysis: Utilized AWS Glue and other analytical tools to perform deep analysis and uncover insights and trends.
+-	Data Visualization: Created graphs and charts using AWS QuickSight to visualize the results clearly and informatively.
 4. Data Management and Monitoring:
-•	Data Publishing: Made findings and visualizations accessible to stakeholders and decision-makers.
-•	Data Protection: Ensured data privacy and compliance with relevant regulations.
-•	Data Governance: Managed data access, auditing, and quality.
-•	Data Monitoring: Monitored the performance and health of data operations using AWS CloudWatch.
+- Data Publishing: Made findings and visualizations accessible to stakeholders and decision-makers.
+- Data Protection: Ensured data privacy and compliance with relevant regulations.
+- Data Governance: Managed data access, auditing, and quality.
+- Data Monitoring: Monitored the performance and health of data operations using AWS CloudWatch.
 # Tools and Technologies
 **AWS Services**
-AWS S3: Used for scalable and secure data storage.
-AWS DataBrew: Utilized for preprocessing tasks to structure the datasets.
-AWS Glue: Employed for data integration, cleaning, and pipeline execution.
-Amazon Athena: Used for performing interactive queries directly on data stored in Amazon S3 using standard SQL
-AWS QuickSight: Used for creating intuitive and informative data visualizations.
-Amazon EC2: For publishing data
-AWS CloudWatch: Leveraged for monitoring the performance and health of data operations.
+- AWS S3: Used for scalable and secure data storage.
+- AWS DataBrew: Utilized for preprocessing tasks to structure the datasets.
+- AWS Glue: Employed for data integration, cleaning, and pipeline execution.
+- Amazon Athena: Used for performing interactive queries directly on data stored in Amazon S3 using standard SQL
+- AWS QuickSight: Used for creating intuitive and informative data visualizations.
+- Amazon EC2: For publishing data
+- AWS CloudWatch: Leveraged for monitoring the performance and health of data operations.
 # Deliverables:
 **Data Visualizations** - A series of detailed visualizations created using AWS QuickSight, which serve as the primary method for communicating the findings from the analysis of the UCW External Research Funding dataset. These visualizations effectively illustrate key insights such as the distribution of funding across departments, trends over time, and correlations between funding amounts and research outcomes. Each visualization is designed to be both informative and accessible, making complex data understandable at a glance.
 
