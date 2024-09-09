@@ -1,5 +1,4 @@
 # DataAnalyst-AWS-Preeti
-# Exploratory Data Analysis - UCW
 # Project 1 - Exploratory Data Analysis on UCW External Research Funding Dataset
 The primary aim of this project is to conduct an exploratory data analysis (EDA) on the UCW External Research Funding dataset to identify trends, correlations, and insights into the allocation and impact of research funding. By examining variables such as funding amounts, departmental distribution, project duration, and funding sources, we seek to understand the factors that influence the success and efficiency of funded projects at the University Canada West. This analysis will help highlight areas of strength and opportunities for improvement in the management and utilization of research grants.
 # Dataset
