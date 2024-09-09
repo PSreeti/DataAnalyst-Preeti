@@ -28,13 +28,11 @@ This dataset encompasses applications submitted for research funding, detailing 
 - Similar Past Proposals: Number of similar proposals submitted in the past.
 - Past Approval Rate: Approval rate for similar past proposals.
 # Methodology
-
 1. Data Storage and Ingestion
 - Storage Design: Designed an efficient data storage solution using AWS S3 for scalability and accessibility.
 - Dataset Preparation: Loaded the datasets into structured formats suitable for analysis using AWS DataBrew and AWS Glue.
 - Data Ingestion: Ingested data into AWS S3, maintaining data integrity and security.  
 ![Data Storage and Ingestion](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Step1.png)
-
 2. Data Processing
 - Pipeline Design: Designed data pipelines using AWS Glue to automate data processing from ingestion to storage.
 ![Pipeline Design](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/ETLWeek%233.drawio%20(1).png)
@@ -43,12 +41,10 @@ This dataset encompasses applications submitted for research funding, detailing 
  ![Data Structuring](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Screenshot%201.png)
 - Pipeline Implementation: Automated the data flow through the implemented pipelines.
 ![Pipeline Implementation](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/ETL_AWS.png)
-
 3. Data Analysis and Visualization
 -	Data Analysis: Utilized AWS Glue and other analytical tools to perform deep analysis and uncover insights and trends.
 -	Data : Created graphs and charts using AWS QuickSight to visualize the results clearly and informatively.
 ![Data Visualization](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Week4.png)
-
 4. Data Management and Monitoring
 - Data Publishing: Made findings and visualizations accessible to stakeholders and decision-makers.
 ![Data Publishing](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Webserver-2.png)
