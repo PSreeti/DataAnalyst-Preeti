@@ -85,26 +85,26 @@ This dataset contains detailed information about employees whose earnings exceed
 ![Picture1](https://github.com/user-attachments/assets/e8fdd2fb-66ea-439c-8ee8-a9e00ca604eb)
 - Dataset Preparation: Loaded the datasets into structured formats suitable for analysis using AWS DataBrew and AWS Glue.
 - Data Ingestion: Ingested data into AWS S3, maintaining data integrity and security.
-![Data Storage and Ingestion](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Picture2.png)
+![Picture2](https://github.com/user-attachments/assets/fb777457-3114-44f6-a16e-a3df4714f823)
 2. Data Processing
 - Pipeline Design: Designed data pipelines using AWS Glue to automate data processing from ingestion to storage.
-![Pipeline Design](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Picture3.png)
-![Pipeline Design2](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Picture4.png)
+![Picture3](https://github.com/user-attachments/assets/ec1fdcd8-46bc-4d76-bab9-461d7e75f5c9)
+![Picture4](https://github.com/user-attachments/assets/a2f36b4b-78cb-40bc-a16a-932f522638fd)
 - Data Cleaning: Handled inconsistencies, missing values, and errors.
- ![Data Cleaning](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Picture5.png)
+ ![Picture5](https://github.com/user-attachments/assets/f320aa06-c514-484b-b097-5ffe9e9fe1fe)
 - Data Structuring: Structured the cleaned data to meet analytical requirements.
- ![Data Structuring](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Picture6.png)
+![Picture6](https://github.com/user-attachments/assets/677eaed4-8f86-4bb5-b78c-690fa6df9254)
 - Pipeline Implementation: Automated the data flow through the implemented pipelines.
-![Pipeline Implementation](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Picture7.png)
+![Picture7](https://github.com/user-attachments/assets/b5c4b855-f611-4202-a6cc-93303acde5fe)
 3. Data Analysis and Visualization
 -	Data Analysis: Utilized AWS Glue and other analytical tools to perform deep analysis and uncover insights and trends.
 -	Data : Created graphs and charts using AWS QuickSight to visualize the results clearly and informatively.
-![Data Visualization](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Picture8.png)
-![Data Visualization](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Picture9.png)
+![Picture8](https://github.com/user-attachments/assets/36af3b92-490c-471a-8b95-22f1b0980094)
+![Picture9](https://github.com/user-attachments/assets/999adf51-6780-4274-bee1-87679accd7ca)
 4. Data Management and Monitoring
 - Data Publishing: Made findings and visualizations accessible to stakeholders and decision-makers.
-![Data Publishing](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Picture11.png)
-![Data Publishing](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Picture12.png)
+![Picture11](https://github.com/user-attachments/assets/8d0e6c7d-3094-482f-9bac-e3797260d59c)
+![Picture12](https://github.com/user-attachments/assets/21c2153b-ad66-4966-8ab6-d63b8bc0d01a)
 - Data Protection: Ensured data privacy and compliance with relevant regulations.
 ![Data Repliation])
 - Data Governance: Managed data access, auditing, and quality.
