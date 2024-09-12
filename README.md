@@ -62,7 +62,7 @@ This dataset encompasses applications submitted for research funding, detailing 
 - AWS QuickSight: Used for creating intuitive and informative data visualizations.
 - Amazon EC2: For publishing data
 - AWS CloudWatch: Leveraged for monitoring the performance and health of data operations.
-# Deliverables:
+# Deliverables
 **Data Visualizations** - A series of detailed visualizations created using AWS QuickSight, which serve as the primary method for communicating the findings from the analysis of the UCW External Research Funding dataset. These visualizations effectively illustrate key insights such as the distribution of funding across departments, trends over time, and correlations between funding amounts and research outcomes. Each visualization is designed to be both informative and accessible, making complex data understandable at a glance.
 
 
@@ -119,6 +119,5 @@ This dataset contains detailed information about employees whose earnings exceed
 - AWS QuickSight: Used for creating intuitive and informative data visualizations.
 - Amazon EC2: For publishing data
 - AWS CloudWatch: Leveraged for monitoring the performance and health of data operations.
-# Deliverables:
+# Deliverables
 **Data Visualizations** - A series of detailed visualizations created using AWS QuickSight, which serve as the primary method for communicating the findings from the analysis of the UCW External Research Funding dataset. These visualizations effectively illustrate key insights such as the distribution of funding across departments, trends over time, and correlations between funding amounts and research outcomes. Each visualization is designed to be both informative and accessible, making complex data understandable at a glance.
-
