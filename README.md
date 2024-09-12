@@ -82,7 +82,7 @@ This dataset contains detailed information about employees whose earnings exceed
 # Methodology
 1. Data Storage and Ingestion
 - Storage Design: Designed an efficient data storage solution using AWS S3 for scalability and accessibility.
-![Data Storage Design](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Picture1.png)
+![Picture1](https://github.com/user-attachments/assets/e8fdd2fb-66ea-439c-8ee8-a9e00ca604eb)
 - Dataset Preparation: Loaded the datasets into structured formats suitable for analysis using AWS DataBrew and AWS Glue.
 - Data Ingestion: Ingested data into AWS S3, maintaining data integrity and security.
 ![Data Storage and Ingestion](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Picture2.png)
