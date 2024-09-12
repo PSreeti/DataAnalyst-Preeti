@@ -32,27 +32,27 @@ This dataset encompasses applications submitted for research funding, detailing 
 - Storage Design: Designed an efficient data storage solution using AWS S3 for scalability and accessibility.
 - Dataset Preparation: Loaded the datasets into structured formats suitable for analysis using AWS DataBrew and AWS Glue.
 - Data Ingestion: Ingested data into AWS S3, maintaining data integrity and security.  
-![Data Storage and Ingestion](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Step1.png)
+![Step1](https://github.com/user-attachments/assets/3b70d3ef-4f44-476e-89d2-6f1f8097d504)
 2. Data Processing
 - Pipeline Design: Designed data pipelines using AWS Glue to automate data processing from ingestion to storage.
-![Pipeline Design](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/ETLWeek%233.drawio%20(1).png)
+![ETLWeek#3 drawio (1)](https://github.com/user-attachments/assets/d6e9d311-cc84-475e-a6f5-fa0350347f68)
 - Data Cleaning: Handled inconsistencies, missing values, and errors.
 - Data Structuring: Structured the cleaned data to meet analytical requirements.
- ![Data Structuring](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Screenshot%201.png)
+![Screenshot 1](https://github.com/user-attachments/assets/d3f3be9a-324e-46f6-a5f7-34ba7623b225)
 - Pipeline Implementation: Automated the data flow through the implemented pipelines.
-![Pipeline Implementation](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/ETL_AWS.png)
+![ETL_AWS](https://github.com/user-attachments/assets/8a558709-62f5-4d7d-8817-c63adeecfde9)
 3. Data Analysis and Visualization
 -	Data Analysis: Utilized AWS Glue and other analytical tools to perform deep analysis and uncover insights and trends.
 -	Data : Created graphs and charts using AWS QuickSight to visualize the results clearly and informatively.
-![Data Visualization](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Week4.png)
+![Week4](https://github.com/user-attachments/assets/52050e48-4971-44cf-a985-598bef66d691)
 4. Data Management and Monitoring
 - Data Publishing: Made findings and visualizations accessible to stakeholders and decision-makers.
-![Data Publishing](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Webserver-2.png)
+![Webserver-2](https://github.com/user-attachments/assets/3e740145-f6c6-4bba-bf64-ccf217e1a8b7)
 - Data Protection: Ensured data privacy and compliance with relevant regulations.
-![Data Repliation](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Screenshot2.png)
+![Screenshot2](https://github.com/user-attachments/assets/f06c1e83-3dd7-4eea-8547-3d41c11d8ee7)
 - Data Governance: Managed data access, auditing, and quality.
 - Data Monitoring: Monitored the performance and health of data operations using AWS CloudWatch.
-![Data Plotting](https://github.com/PSreeti/cloudcomputing-AWS-preeti/blob/main/Monitoring%26ControllingDashboard-2.png)
+![Monitoring ControllingDashboard-2](https://github.com/user-attachments/assets/83bec11b-ba89-4a4d-b98f-8883cd0e50c5)
 
 # Tools and Technologies
 **AWS Services**
@@ -106,10 +106,10 @@ This dataset contains detailed information about employees whose earnings exceed
 ![Picture11](https://github.com/user-attachments/assets/8d0e6c7d-3094-482f-9bac-e3797260d59c)
 ![Picture12](https://github.com/user-attachments/assets/21c2153b-ad66-4966-8ab6-d63b8bc0d01a)
 - Data Protection: Ensured data privacy and compliance with relevant regulations.
-![Data Repliation])
+![image](https://github.com/user-attachments/assets/3f841dd4-bab2-460f-b228-955a85125432)
 - Data Governance: Managed data access, auditing, and quality.
 - Data Monitoring: Monitored the performance and health of data operations using AWS CloudWatch.
-![Data Plotting]()
+![image](https://github.com/user-attachments/assets/0f726303-4c36-497d-a701-03f8325cde6c)
 
 # Tools and Technologies
 **AWS Services**
